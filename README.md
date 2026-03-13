@@ -4,6 +4,7 @@ Note: currently it's a demo with only this features:
 1-creating a node
 2-creating an edge
 3-linking an edge and a node
+4-showing a list of all available nodes
 future add-ons:
 1-add queries about the graphs
 2-implement file saving system
